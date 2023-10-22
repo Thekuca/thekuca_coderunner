@@ -1,3 +1,3 @@
-CODE_PROPERTIES = {Loop = false, Wait = 5000, Diffcheck = 15000}
+CODE_PROPERTIES = {Loop = true, Wait = 5000, Diffcheck = 5000}
 
-print('test2')
+print('test3')
