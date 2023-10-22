@@ -29,6 +29,7 @@ CreateThread(function()
                 codeChanged = true
                 Wait(CODE_PROPERTIES.Wait + 100)
                 chunk = raw
+                codeChanged = false
                 loadujKod(raw)
             end
         end)
