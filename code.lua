@@ -1,1 +1,1 @@
-CODE_PROPERTIES = {Loop = true, Wait = 5000, Diffcheck = 2000}
+CODE_PROPERTIES = {Loop = false, Wait = 5000, Diffcheck = 5000}
